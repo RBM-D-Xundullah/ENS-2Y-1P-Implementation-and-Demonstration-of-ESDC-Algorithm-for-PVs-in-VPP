@@ -1,6 +1,6 @@
 # Implementation and Demonstration of Energy-Related Sensing Data Cleaning Algorithm for Photovoltaic Power Plants in Virtual Power Plant
 
-> <u> Description </u> : 
+> <b> Description </b> : 
 This system involves implementing and demonstrating an energy-related sensing data cleaning algorithm for photovoltaic power plants in a virtual power plant. The system involves using Python code to connect to a remote database and retrieve data from multiple power plants, perform data preprocessing and analysis, and prepare the data for machine learning and deep reinforcement learning algorithms. The system's primary goal is to clean and process the data from multiple power plants to make it suitable for analysis and use in decision-making processes.
 
 
